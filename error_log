@@ -1,0 +1,18 @@
+[09-Jun-2017 11:20:52 Etc/GMT] PHP Fatal error:  Call to undefined method AdminFaqCategory::viewCategory() in /home/neuroz51/public_html/Popin/application/controllers/admin/Faq_category.php on line 77
+[12-Jun-2017 11:12:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '"{password}"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/neuroz51/public_html/Popin/application/controllers/Host.php on line 304
+[12-Jun-2017 11:42:56 Etc/GMT] PHP Fatal error:  Call to a member function getAccessToken() on null in /home/neuroz51/public_html/Popin/application/controllers/Host.php on line 26
+[12-Jun-2017 11:45:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/neuroz51/public_html/Popin/application/controllers/Host.php on line 85
+[12-Jun-2017 11:49:39 Etc/GMT] PHP Fatal error:  Call to a member function checkUser() on null in /home/neuroz51/public_html/Popin/application/controllers/Host.php on line 67
+[19-Jun-2017 11:55:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neuroz51/public_html/Popin/application/controllers/admin/Hosts.php on line 110
+[19-Jun-2017 11:55:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neuroz51/public_html/Popin/application/controllers/admin/Hosts.php on line 110
+[26-Jun-2017 09:37:09 Etc/GMT] PHP Fatal error:  Call to undefined method FrontUser::editHost() in /home/neuroz51/public_html/Popin/application/controllers/Space.php on line 580
+[26-Jun-2017 09:37:47 Etc/GMT] PHP Fatal error:  Call to undefined method FrontUser::editHost() in /home/neuroz51/public_html/Popin/application/controllers/Space.php on line 580
+[26-Jun-2017 09:40:51 Etc/GMT] PHP Fatal error:  Call to a member function userProfileInfo() on null in /home/neuroz51/public_html/Popin/application/views/frontend/include/header.php on line 21
+[26-Jun-2017 09:40:54 Etc/GMT] PHP Fatal error:  Call to a member function userProfileInfo() on null in /home/neuroz51/public_html/Popin/application/views/frontend/include/header.php on line 21
+[26-Jun-2017 09:47:59 Etc/GMT] PHP Fatal error:  Call to undefined method FrontUser::editHost() in /home/neuroz51/public_html/Popin/application/controllers/Space.php on line 580
+[26-Jun-2017 09:49:21 Etc/GMT] PHP Fatal error:  Call to undefined method FrontUser::editHost() in /home/neuroz51/public_html/Popin/application/controllers/Space.php on line 580
+[30-Jun-2017 11:19:47 Etc/GMT] PHP Fatal error:  Call to undefined method FrontUser::getLoginHistory() in /home/neuroz51/public_html/Popin/application/controllers/Account.php on line 52
+[30-Jun-2017 13:08:35 Etc/GMT] PHP Fatal error:  Call to a member function userProfileInfo() on null in /home/neuroz51/public_html/Popin/application/views/frontend/include/header.php on line 21
+[30-Jun-2017 13:08:50 Etc/GMT] PHP Fatal error:  Call to a member function userProfileInfo() on null in /home/neuroz51/public_html/Popin/application/views/frontend/include/header.php on line 21
+[30-Jun-2017 13:08:51 Etc/GMT] PHP Fatal error:  Call to a member function userProfileInfo() on null in /home/neuroz51/public_html/Popin/application/views/frontend/include/header.php on line 21
+[10-Jul-2017 09:20:19 Etc/GMT] PHP Fatal error:  Call to a member function getUpcomingRentals() on null in /home/neuroz51/public_html/Popin/application/views/frontend/include/trips-window.php on line 1

@@ -1,0 +1,12 @@
+#sidebar-menu > ul > li > a {padding: 12px 10px;}
+#sidebar-menu ul li a i {padding-right: 3px;}
+#sidebar-menu ul ul a {padding: 10px 20px 10px 30px;}
+#sidebar-menu ul li a i, #sidebar-menu ul li a span {display: table-cell; vertical-align: top;}
+#sidebar-menu ul li .menu-arrow {top: 12px; right: 10px;}
+.has_sub ul.list-unstyled li a i {display: inline-block !important;}
+.pagination-panel {text-align: left;}
+.pagination-panel .input-sm {display: inline-block; width: 60px;}
+table.dataTable {width: 99% !important;}
+#banner_list_wrapper .table-responsive {overflow-x: visible;}
+#wrapper, .content-page {overflow: visible;}
+.margin-bottom-5 {margin-bottom: 5px;}
